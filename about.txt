@@ -1,9 +1,6 @@
-Tietoa Git-harjoituksesta
+Tietoa harjoituksesta
 
 Kurssilla harjoitellaan Git-versionhallintajärjestelmän
-perustoimintoja ja komentojen käyttöä.
-
-Tässä harjoituksessa opetellaan erityisesti muutosten
-lisäämistä, peruuttamista ja palauttamista.
+perustoimintoja.
 
 Tämä tiedosto on lisätty harjoituksen myöhemmässä vaiheessa.
