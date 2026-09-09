@@ -1,0 +1,4 @@
+Git-harjoitus 2
+
+Tämä on ensimmäinen Git-repositorioon lisätty tiedosto.
+Harjoittelen Gitin perustoimintoja.
