@@ -1,0 +1,6 @@
+Tietoa harjoituksesta
+
+Kurssilla harjoitellaan Git-versionhallintajärjestelmän
+perustoimintoja.
+
+Tämä tiedosto on lisätty harjoituksen myöhemmässä vaiheessa.
