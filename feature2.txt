@@ -1,0 +1,3 @@
+Tämä tiedosto on luotu GitHubin käyttöliittymässä.
+
+Muutos haetaan myöhemmin paikalliseen repositorioon git fetch -komennolla.
