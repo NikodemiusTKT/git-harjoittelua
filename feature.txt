@@ -1,3 +1,0 @@
-Tämä tiedosto on luotu paikallisesti new-feat-haaraan.
-
-Harjoittelen tässä Gitin etärepositorion käyttöä.
